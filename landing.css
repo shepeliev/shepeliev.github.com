@@ -1,0 +1,37 @@
+body {
+  background-color: #080808;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #f2f2f2;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+.spread-vertically {
+  height: 100%;
+}
+
+a,
+a:hover,
+a:active {
+  color: #f2f2f2;
+}
+
+.name {
+  font-weight: 300;
+  font-size: 4.7em;
+}
+
+.position {
+  font-weight: 100;
+  font-size: 3em;
+}
+
+.icons {
+  font-size: 4em;
+}
+
+.center-block {
+  margin: auto;
+}
