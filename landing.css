@@ -35,7 +35,7 @@ body {
   align-items: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("pexels-lukas-mayer-785429.jpg") !important;
+  background-image: url("background.jpg") !important;
 }
 
 .icons > a {
